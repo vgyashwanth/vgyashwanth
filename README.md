@@ -1,8 +1,8 @@
-- 👋 Hi i am vg yashwanth kumar
-- 💞I am a student in NIT TRICHY
-- 👀 I am interested in embedded systems 
+- 👋 Hi i am VG YASHWANTH KUMAR
+- 💞I am a student in National Institute of Technology Tiruchirappalli 
+- 👀 I love to work on projects related to embedded systems, digital electronics.
 - 📫 How to reach me:yashwanthkumarvg@gmail.com
-     Contact No:9391678581
+-    Contact No:9391678581
 
 <!---
 vgyashwanth/vgyashwanth is a ✨ special ✨ repository because its `README.md` (this file) appears on your GitHub profile.
